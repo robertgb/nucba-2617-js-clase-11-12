@@ -1,5 +1,7 @@
 # To Do List
 
+Proyecto deployado: https://todo-list-orcin-sigma.vercel.app/
+
 En este proyecto estaremos codeando una lista de tareas que tendrá las siguientes funcionalidades:
 
 - Agregar una tarea a la lista mediante un form
