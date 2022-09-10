@@ -19,7 +19,7 @@ El proyecto esta dividido en distintas ramas las cuales detallamos a continuaci�
 | Rama            | Descripción                                                      |
 | --------------- | ---------------------------------------------------------------- |
 | clase            | Base para la clase - Desde aca vamos a partir para el livecoding |
-| template-mentor | Proyecto completo para el profesor                               |
+| template/mentor | Proyecto completo para el profesor                               |
 
 El profesor clonará por un lado la rama "clase" para utilizar de base para codear en la clase y por el otro la rama "template/mentor" para tener de referencia a la hora de ir codeandola.
 Tambien en la rama "template/mentor" , tendrán una explicación de lo que se realizará en el proyecto. Finalmente, en el archivo "clase.js" tendrán la explicación de los pasos a seguir a la hora de realizar el proyecto. **Es importante que lo revisen con tiempo, con el fin de que , en caso de que tengan alguna duda sobre la realización del proyecto, podamos asistirlos desde el equipo y tambien para que puedan organizarlo de la manera que ustedes crean mas conveniente para codearlo en clase**
